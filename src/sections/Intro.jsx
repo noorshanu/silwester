@@ -13,7 +13,7 @@ const Intro = () => {
           <div className=" w-full sm:w-[500px] border-[#ffc93b] border-2 rounded-2xl ">
             {/* <RoadmapCards /> */}
             <h2 className=" mt-4 text-center text-2xl  text-white font-semibold font-groot-one ">
-            world of SpongeSol
+            world of SylvesterSol
             </h2>
             <img
               src="images/hero.jpeg"
@@ -29,21 +29,21 @@ const Intro = () => {
           About Us
         </h2>
             <p className="font-semibold font-groot-one text-xl sm:text-3xl  text-white  py-2">
-              Welcome to the wild world of SpongeSol!
+              Welcome to the wild world of SylvesterSol!
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one  text-white  font-medium">
-              In the meme jungle, SpongeSol reigns supreme with his adorable
-              charm and endless memes! With his trusty sidekick, SpongeSol
+              In the meme jungle, SylvesterSol reigns supreme with his adorable
+              charm and endless memes! With his trusty sidekick, SylvesterSol
               spreads joy and laughter wherever he goes, making Solana brighter
               with every wag of his tail.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one   text-white font-medium">
-            SpongeSol isn't your average meme coin - he's the next viral meme! Known for his cuteness, unique features, and explosive growth, SpongeSol offers more than just memes. 
+            SylvesterSol isn't your average meme coin - he's the next viral meme! Known for his cuteness, unique features, and explosive growth, SylvesterSol offers more than just memes. 
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one  text-white font-medium">
-            From his hilarious antics to his groundbreaking SpongeSol Game and pet store, SpongeSol brings excitement and adventure to the crypto world! 
+            From his hilarious antics to his groundbreaking SylvesterSol Game and pet store, SylvesterSol brings excitement and adventure to the crypto world! 
             </h1>
           </div>
         </div>
