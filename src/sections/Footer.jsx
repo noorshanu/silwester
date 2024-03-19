@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container-wrapper mt-8 ">
         <div className="flex justify-between flex-col sm:flex-row">
           <div className="mt-8 flex items-center justify-center gap-2">
-          <p className="font-groot-one text-black">
+          <p className="font-groot-one text-white">
                 Copyright 2024 SpongSol. All Rights Reserved.
               </p>
 
@@ -19,10 +19,10 @@ const Footer = () => {
             </div>
             <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
               <a target="_blank" href="https://twitter.com/SpongeSolll">
-                <FaTwitter fill="#4D2E7B" />
+                <FaTwitter fill="#fff" />
               </a>
               <a target="_blank" href="https://t.me/spongesoll">
-                <FaTelegram fill="#4D2E7B" />
+                <FaTelegram fill="#fff" />
               </a>
             </div>
           </div>

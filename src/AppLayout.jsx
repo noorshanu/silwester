@@ -11,25 +11,26 @@ import RoadMap from "./sections/RoadMap";
 function AppLayout() {
   return (
     <>
-      <main className="  bg-main bg-[#42e1e7]">
+      <main className="  bg-main ">
         <Navbar />
 
         <Hero />
       </main>
-      <div className=" h-[100px]  py-4  mb-2 bg-[#473314] ">
-        <MemeMark />
-      </div>
+     
 
       <div>
         <dl className="h-[50px]" />
         <Intro />
         <dl className="h-[50px]" />
-        <div className=" bg-[#473314]">
+        {/* <div className=" bg-[#473314]">
         <MemeCards />
-        </div>
-        <div>
+        </div> */}
+        <div className=" h-[100px]  py-4  mb-2 bg-[#0000005d] ">
+        <MemeMark />
+      </div>
+        {/* <div>
           <RoadMap/>
-        </div>
+        </div> */}
         {/* <div>
           <Partner />
         </div> */}

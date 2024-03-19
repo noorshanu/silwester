@@ -35,7 +35,7 @@
 
   html,
   body {
-    @apply bg-[#e8e6c9] text-white  ;
+    @apply bg-[#011473] text-white  ;
   }
 
   .container-wrapper {
@@ -49,10 +49,10 @@
 
 
 .bg-main{
-  background-image: url(/images/backgb.jpg);
+  /* background-image: url(/images/backgb.jpg);
   
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
   /* background-position: center ; */
 }
 .bg-tweet{

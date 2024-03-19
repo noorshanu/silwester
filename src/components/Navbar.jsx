@@ -1,23 +1,23 @@
 import { useState } from "react";
 import { IoClose, IoMenu } from "react-icons/io5";
 import { twMerge } from "tailwind-merge";
-import { FaTwitter, FaTelegram } from "react-icons/fa";
+
 
 function Navbar() {
   const [isSidebarVisible, setSidebarVisibility] = useState(false);
 
   return (
     <nav className=" py-1 bg-[]  ">
-      <div className="container-wrapper flex items-center justify-between relative">
+      <div className="container-wrapper flex items-center justify-center relative">
         <div className=" flex items-center gap-2">
           <img
-            src="/images/hero3.png"
-            className="max-w-[7rem] w-full "
+            src="/images/logo.png"
+            className="max-w-[5rem] w-full "
             alt=""
           />
 
-          <p className=" text-3xl font-bold font-groot-one text-[#000]">
-           SpongSol
+          <p className=" text-xl font-bold font-groot-one text-[#fff]">
+          Sylvester<span className="text-[#f02c2f] font-groot-one">Sol</span>
           </p>
         </div>
 
@@ -61,14 +61,7 @@ function Navbar() {
         </div>
 
         <div className="flex items-center space-x-6">
-          <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="https://twitter.com/SpongeSolll" className=" text-4xl">
-              <FaTwitter fill="#000" />
-            </a>
-            <a target="_blank" href="https://t.me/spongesoll" className=" text-4xl">
-              <FaTelegram fill="#000" />
-            </a>
-          </div>
+      
 
           {/* <button
             className="text-2xl lg:hidden"
