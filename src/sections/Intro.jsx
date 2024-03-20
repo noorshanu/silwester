@@ -29,7 +29,7 @@ const Intro = () => {
           About Us
         </h2>
             <p className="font-semibold font-groot-one text-xl sm:text-3xl  text-white  py-2">
-              Welcome to the wild world of SylvesterSol!
+              Welcome to the wild world of SylviSol!
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one  text-white  font-medium">
               In the meme jungle, SylvesterSol reigns supreme with his adorable
