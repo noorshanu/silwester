@@ -13,7 +13,7 @@ const Intro = () => {
           <div className=" w-full sm:w-[500px] border-[#ffc93b] border-2 rounded-2xl ">
             {/* <RoadmapCards /> */}
             <h2 className=" mt-4 text-center text-2xl  text-white font-semibold font-groot-one ">
-            world of SylvesterSol
+            world of SylviSol
             </h2>
             <img
               src="images/hero.jpeg"
