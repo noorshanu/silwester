@@ -46,7 +46,7 @@ function Hero() {
                   </a>
                   <a
                     target="_blank"
-                    href="https://t.me/SylvesterSoll"
+                    href="https://t.me/sylvisol"
                     className=" text-4xl"
                   >
                     <FaTelegram fill="#fff" />
