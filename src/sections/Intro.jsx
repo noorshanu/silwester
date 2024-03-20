@@ -9,7 +9,7 @@ const Intro = () => {
      
     
 
-        <div className="  px-4  py-2 flex justify-between flex-col sm:flex-row items-center ">
+        <div className="  px-4  py-2 flex justify-between flex-col gap-6 sm:flex-row items-center ">
           <div className=" w-full sm:w-[500px] border-[#ffc93b] border-2 rounded-2xl ">
             {/* <RoadmapCards /> */}
             <h2 className=" mt-4 text-center text-2xl  text-white font-semibold font-groot-one ">
@@ -18,7 +18,7 @@ const Intro = () => {
             <img
               src="images/hero.jpeg"
               alt=""
-              className=" rounded-3xl  h-[400px] mx-auto mb-4  "
+              className=" rounded-3xl h-full  sm:h-[400px] mx-auto mb-4  "
             />
           
 
