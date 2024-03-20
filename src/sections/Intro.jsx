@@ -32,18 +32,15 @@ const Intro = () => {
               Welcome to the wild world of SylviSol!
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one  text-white  font-medium">
-              In the meme jungle, SylvesterSol reigns supreme with his adorable
-              charm and endless memes! With his trusty sidekick, SylvesterSol
-              spreads joy and laughter wherever he goes, making Solana brighter
-              with every wag of his tail.
+            Sylvisol Telegram Trading Bot: Lightning-fast trading insights and meme staking rewards.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one   text-white font-medium">
-            SylvesterSol isn't your average meme coin - he's the next viral meme! Known for his cuteness, unique features, and explosive growth, SylvesterSol offers more than just memes. 
+            High Staking Rewards: Sky-high incentives for loyal holders.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one  text-white font-medium">
-            From his hilarious antics to his groundbreaking SylvesterSol Game and pet store, SylvesterSol brings excitement and adventure to the crypto world! 
+            Non-Stop Meme Creation: Join the fun factory and earn with every laugh.
             </h1>
           </div>
         </div>
