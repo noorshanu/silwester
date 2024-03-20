@@ -17,7 +17,7 @@ function Navbar() {
           />
 
           <p className=" text-xl font-bold font-groot-one text-[#fff]">
-          Sylvester<span className="text-[#f02c2f] font-groot-one">Sol</span>
+          Sylvi<span className="text-[#f02c2f] font-groot-one">Sol</span>
           </p>
         </div>
 
