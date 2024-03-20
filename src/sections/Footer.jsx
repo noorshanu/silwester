@@ -21,7 +21,7 @@ const Footer = () => {
               <a target="_blank" href="https://twitter.com/SpongeSolll">
                 <FaTwitter fill="#fff" />
               </a>
-              <a target="_blank" href="https://t.me/spongesoll">
+              <a target="_blank" href="https://t.me/sylvisol">
                 <FaTelegram fill="#fff" />
               </a>
             </div>
