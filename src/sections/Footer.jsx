@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex justify-between flex-col sm:flex-row">
           <div className="mt-8 flex items-center justify-center gap-2">
           <p className="font-groot-one text-white">
-                Copyright 2024 SylviSol. All Rights Reserved.
+                Copyright 2024 LeoCat. All Rights Reserved.
               </p>
 
           </div>
@@ -18,11 +18,19 @@ const Footer = () => {
              
             </div>
             <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-              <a target="_blank" href="https://twitter.com/sylvisoll">
-                <FaTwitter fill="#fff" />
-              </a>
-              <a target="_blank" href="https://t.me/sylvisol">
-                <FaTelegram fill="#fff" />
+            <a
+                    target="_blank"
+                    href="https://twitter.com/Leo_cat9"
+                    className=" text-4xl"
+                  >
+                    <FaTwitter fill="#fd6b02" />
+                  </a>
+                  <a
+                    target="_blank"
+                    href="https://t.me/leocatsol"
+                    className=" text-4xl"
+                  >
+                <FaTelegram fill="#fd6b02" />
               </a>
             </div>
           </div>

@@ -12,12 +12,12 @@ function Navbar() {
         <div className=" flex items-center gap-2">
           <img
             src="/images/logo.png"
-            className="max-w-[5rem] w-full "
+            className="max-w-[5rem] w-full py-2 "
             alt=""
           />
 
-          <p className=" text-xl font-bold font-groot-one text-[#fff]">
-          Sylvi<span className="text-[#f02c2f] font-groot-one">Sol</span>
+          <p className=" text-2xl font-bold font-groot-one text-[#fff]">
+          Leo<span className="text-[#fd6b02] font-groot-one">Cat</span>
           </p>
         </div>
 

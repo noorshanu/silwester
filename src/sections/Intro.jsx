@@ -13,10 +13,10 @@ const Intro = () => {
           <div className=" w-full sm:w-[500px] border-[#ffc93b] border-2 rounded-2xl ">
             {/* <RoadmapCards /> */}
             <h2 className=" mt-4 text-center text-2xl  text-white font-semibold font-groot-one ">
-            world of SylviSol
+            world of LeoCat
             </h2>
             <img
-              src="images/hero.jpeg"
+              src="images/newt.png"
               alt=""
               className=" rounded-3xl h-full  sm:h-[400px] mx-auto mb-4  "
             />
@@ -25,14 +25,14 @@ const Intro = () => {
            
           </div>
           <div className=" max-w-xl">
-          <h2 className="font-groot-one text-5xl my-2 text-[#ffc93b] text-center font-bold relative z-30 -mt-4">
+          <h2 className="font-groot-one text-5xl my-2 text-[#fd6b02] text-center font-bold relative z-30 -mt-4">
           About Us
         </h2>
             <p className="font-semibold font-groot-one text-xl sm:text-3xl  text-white  py-2">
-              Welcome to the wild world of SylviSol!
+              Welcome to the wild world of LeoCat!
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one  text-white  font-medium">
-            Sylvisol Telegram Trading Bot: Lightning-fast trading insights and meme staking rewards.
+            LeoCat Telegram Trading Bot: Lightning-fast trading insights and meme staking rewards.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one   text-white font-medium">
